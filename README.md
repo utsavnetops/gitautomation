@@ -10,5 +10,6 @@
 #push test
 11 line edited
 12 popup failed fixed back
+13 force delete fixed
 
 
