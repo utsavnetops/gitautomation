@@ -15,6 +15,8 @@
 15 pull and update test
 16 pull and update test browser
 17 implement try catch
+18 implemented try catch for git dir check
+
 
 
 
